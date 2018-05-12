@@ -1,0 +1,30 @@
+_repo: Musa-Velha_27940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palha, Francisco
+    aliases:
+    - Lacerda, Francisco José Pereira Palha Faría de
+    - Lacerda, Francisco Jose Pereira Palha Faria de
+    birthdate: 1826
+    deathdate: 1890
+    gutenberg_agent_id: '33028'
+    url: http://www.gutenberg.org/2009/agents/33028
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27940'
+  lccn: '33020644'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Musa Velha
+url: http://www.gutenberg.org/ebooks/27940
